@@ -4,5 +4,5 @@
 
 
 - 📫 Como chegar até a mim:
-Linkedin:in/vitória-lôpo-866747148/
+```Linkedin:in/vitória-lôpo-866747148/```
 
