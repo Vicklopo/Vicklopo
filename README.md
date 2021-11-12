@@ -1,6 +1,8 @@
-- # Olá, sou a Vitória Lôpo
+ # Olá, sou a Vitória Lôpo
 
-Tester de software Web e Mobile. Seja bem-vindo ao meu perfil!!!
+Tester de software Web e Mobile.
+
+<strong>Seja bem-vindo ao meu perfil!!!<strong/>
 
 <div align="center">
   <a href="https://github.com/Vicklopo">
