@@ -32,3 +32,5 @@ Tester de software Web e Mobile.
   
 # Banco de dados
   <img align="center" alt="Vick-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+
+ 
