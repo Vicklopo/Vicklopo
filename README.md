@@ -30,7 +30,6 @@ Tester de software Web e Mobile.
   <img align="center" alt="Vick-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="Vick-Selenium" height="30" width="40" src="https://ciclosw.files.wordpress.com/2015/08/big-logo.png">
   <img align="center" alt="Vick-JUnit" height="30" width="40" src="https://miro.medium.com/max/460/1*ahIiDbsR6s9XgR45nJJ5DA.png">
-  <img align="center" alt="Vick-Behave" height="30" width="40" src="https://behave.readthedocs.io/en/stable/_images/behave_logo1.png">
        
  # Ferramentas
   <img align="center" alt="Vick-Appium" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/appium.svg">
